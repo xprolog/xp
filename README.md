@@ -1,4 +1,4 @@
-X-Prolog is a lightweight Prolog system intended to facilitate programming in Prolog on Android. The app runs Prolog programs in a text view, web view or as a daemon process.
+&#10007;-Prolog is a lightweight Prolog system intended to facilitate programming in Prolog on Android. The app runs Prolog programs in a text view, web view or as a daemon process.
 
 <i>got tool?</i> The app depends on user-defined tools for editing and building projects. The tools are written in Prolog and are visible on devices with developer options. The app and tools exchange data through transfer variables and formatted output. This release includes trivial tools intended to demonstrate the app's tooling feature.
 
